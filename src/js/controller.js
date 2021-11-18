@@ -1,5 +1,3 @@
-import icon from '../img/icons.svg';
-import { Fraction } from 'fractional';
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 import * as model from './model.js';

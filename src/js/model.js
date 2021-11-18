@@ -1,7 +1,6 @@
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 import { API_URL } from './config.js';
-// import { getJSON, sendJSON } from './helpers';
 import { AJAX } from './helpers';
 import { RES_PER_PAGE, KEY } from './config.js';
 
